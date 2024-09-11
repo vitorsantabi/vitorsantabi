@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 function start() {
 
     while (true){
