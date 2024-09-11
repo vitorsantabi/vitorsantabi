@@ -53,9 +53,13 @@ Apresentar os dados
 
 - [x] criar, passar argumento
 - [x] excutar
+<<<<<<< HEAD
 - [x] arrow function / named function
 
 ### estrutura de repetição
 - [x] while
 ### condicionais
 - [x] switch
+=======
+- [x] arrow function / named function
+>>>>>>> 8bdb3025ae893b6e7126b2e5b3e2d8df02b9777a
