@@ -1,70 +1,81 @@
-<<<<<<< HEAD
+const { select,input,checkbox } = require('@inquirer/prompts')
+let meta = {
+    nome: "beber agua",
+    checked: false,
+}
+let metas = [meta]
+const cadastrarMeta = async () => {
+    const meta = await input(  { message : "Digite a meta: "} )
+    if(meta.length == 0){
+        console.log("Favor digitar uma meta")
+        return
+    }
 
-function start() {
+    metas.push({value: meta, checked: false})
 
-    while (true){
-        let opcao = "sair"
+}
+
+
+const listarTarefas = async () => {
+     const respostas = await checkbox({
+        message: "use as setas do teclado para mudar as metas, espaço para selecionar, e enter para finalizar",
+        choices: [...metas],
+        instructions: false,
+    }) 
+    if(respostas.length == 0){
+        console.log("Nenhuma tarefa selecionada")
+        return
+    }
+    metas.forEach((m) => {
+        m.checked = false
+    }) 
+        
+    
+    respostas.forEach((resposta) => {
+        const meta = metas.find((m) => {
+            return m.value == resposta
+        })
+        meta.checked = true
+    })
+    console.log("Meta(s) Concluida (s)")
+}
+
+const start = async () => {
+
+    while (true) {
+
+        const opcao = await select({
+            message: "Menu > ",
+            choices: [
+                {
+                    name: "Cadastrar",
+                    value: "cadastrar"
+
+                },
+                {
+                    name: "Listar Metas",
+                    value: "listar"
+                },
+                {
+                    name: "Sair",
+                    value: "sair"
+                }
+            ]
+        })
+
         switch (opcao) {
             case "cadastrar":
-                console.log("Cadastrando")
+                await cadastrarMeta()
+                console.log(metas)
                 break
             case "listar":
-                console.log("Listando")
+                await listarTarefas()
                 break
             case "sair":
+
                 console.log("Saindo")
                 return
         }
     }
 }
 start()
-=======
-// olá, mundo!
-console.log("olá, mundo!")
-
-
-// variáveis - let
-let mensagens = "olá, mundo!"
-
-
-// variáveis - const
-const mensagem = "olá, eu"
-{
-    const mensagem = "olá, Mayk!"
-    console.log(mensagem)
-}
-console.log(mensagem);
-
-
-// arrays
-let metas = ['mayk', 'alô']
-let metas01 = [2, 'mayk']
-// concatenando valores
-console.log(metas[1] + ", " + metas[0]) 
-
-let metas02 = [
-    metas,
-    {
-        value: 'caminhar 20 minutos todos os dias',
-        checked: false
-    }
-]
-console.log(metas02[1].value);
-
-// objetos
-let meta = {
-    value: 'ler um livro por mês',
-    address: 2,
-    checked: true,
-    isChecked: () => {
-        console.log(info)
-    }
-}
-console.log(meta.value);
-
-// function // arrow function
-const criarMeta = () => {}
-
-// named function
-function criarMetas() {}
->>>>>>> 8bdb3025ae893b6e7126b2e5b3e2d8df02b9777a

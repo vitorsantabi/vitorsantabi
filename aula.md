@@ -1,3 +1,4 @@
+
 ## Linguagem de programação
 
 Maneira de dar instrução ao computador.
@@ -36,12 +37,14 @@ Apresentar os dados
 
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
+- [x] Operadores de comparação: == != <= >= < >
 
 ## Estruturas de dados:
 
 ### Arrays: 
 
-- [x] Uma lista que contém qualquer tipo de dado 
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, find, forEach
 
 ### Objetos:
 
@@ -53,13 +56,23 @@ Apresentar os dados
 
 - [x] criar, passar argumento
 - [x] excutar
-<<<<<<< HEAD
 - [x] arrow function / named function
 
-### estrutura de repetição
+# Estrutura de repetição
+
 - [x] while
-### condicionais
+
+# Condicionais
+
 - [x] switch
-=======
-- [x] arrow function / named function
->>>>>>> 8bdb3025ae893b6e7126b2e5b3e2d8df02b9777a
+- [x] if/else
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] Operadores de compacao  == != 1 < 2
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
