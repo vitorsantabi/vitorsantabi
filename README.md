@@ -83,7 +83,7 @@ Sou desenvolvedor **Front-End & Mobile** focado em criar interfaces fluidas, per
 Estou sempre aberto a conversas sobre tecnologia, desenvolvimento mobile, parcerias em projetos ou apenas um bom papo sobre games e cultura pop.
 
 📧 **E-mail:** seuemail@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/vitorsantab)  
 🌐 **Portfólio (em breve):** [vitorsantabi.dev](https://vitorsantabi.dev)
 
 ---
