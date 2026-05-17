@@ -1,180 +1,93 @@
+# 👋 Olá, eu sou o José Vitor (vitorsantabi)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario) <!-- Substitua pelo seu link -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorsantabi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+🏠 **Trabalhando de casa** | Recife - PE, Brasil  
+🚀 **Graduando em Sistemas para a Internet** | FICR - Previsão: Julho/2026
+
+---
+
+### 🧑‍💻 Sobre mim
+
+Sou desenvolvedor **Front-End & Mobile** focado em criar interfaces fluidas, performáticas e centradas no usuário. Minha jornada no mundo da programação é movida pela curiosidade de transformar ideias em soluções interativas, combinando design e tecnologia.
+
+- 🔭 Atualmente trabalhando em projetos com **React Native** e **TypeScript**
+- 🌱 Aprofundando conhecimentos em **Flutter**, **Firebase** e **UI/UX**
+- 💬 Pergunte-me sobre: Desenvolvimento Mobile, React Native, PHP e arquitetura MVC
+- ⚡ Fato curioso: Sou apaixonado por cultura pop, games e **Prompt Engineering com Agentic AI**
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+**Front-end & Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Back-end & Banco de dados**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Ferramentas & Metodologias**
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![SAP SuccessFactors](https://img.shields.io/badge/SAP_SuccessFactors-008D3C?style=for-the-badge&logo=sap&logoColor=white)
+![Metodologias Ágeis](https://img.shields.io/badge/Scrum_&_Kanban-2496ED?style=for-the-badge&logo=agile&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|--------------|
+| **[Vsocial](https://github.com/vitorsantabi/VSocial)** | Rede social completa com foco em performance e segurança no backend. | PHP, MySQL, MVC |
+| **[TagFlix](https://github.com/vitorsantabi/TagFlix)** | App mobile para resenhas e comunidade de amantes de cinema com tempo real. | React Native, Firebase |
+| **[LoveText](https://github.com/vitorsantabi/LoveText)** | Utilitário inteligente de processamento e formatação de textos. | TypeScript |
+| **[Vouver](https://github.com/vitorsantabi/vouver)** | Projeto recente em desenvolvimento com TypeScript. | TypeScript |
+| **[WikiAppArquetipos](https://github.com/vitorsantabi/WikiAppArquetipos)** | Aplicativo wiki para explorar arquétipos. | TypeScript |
+| **[WebplayMusic](https://github.com/vitorsantabi/WebplayMusic)** | Player de música local simples e funcional. | HTML, CSS, JS |
+
+---
+
+### 📈 Estatísticas do GitHub
+
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsantabi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantabi&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-# 👨‍💻 Jose Vitor
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5BC0BE&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+Developer;Firebase+Developer;Criando+Apps+Modernos+e+Escaláveis" alt="Typing SVG" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:5BC0BE,100:F28627&text=Welcome!&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorsantabi&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-# 🚀 Sobre mim
+### 📱 Atividade Recente
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```yaml
-Nome: Jose Vitor
-Localização: Recife - PE
-Função: Full Stack Developer
-Mobile: React Native + Expo
-Backend: Firebase + PHP
-Linguagens: JavaScript | TypeScript
-Objetivo: Criar aplicações modernas e escaláveis
-```
-
-<br><br><br><br><br><br>
+<!-- Inclui os dois repositórios criados em Maio/2026 -->
+✨ **Últimos repositórios criados:**
+- **[vouver](https://github.com/vitorsantabi/vouver)** - Criado em 12 de Maio de 2026 (TypeScript)
+- **[vitorsantabi](https://github.com/vitorsantabi/vitorsantabi)** - README do perfil atualizado em 17 de Maio de 2026
 
 ---
 
-# 🛠️ Tecnologias
+### 🤝 Vamos conectar?
 
-<div align="center">
+Estou sempre aberto a conversas sobre tecnologia, desenvolvimento mobile, parcerias em projetos ou apenas um bom papo sobre games e cultura pop.
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,php,mysql,firebase,html,css,git,github,vscode,figma" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsantabi&show_icons=true&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&icon_color=F28627&text_color=ffffff&border_color=5BC0BE" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantabi&layout=compact&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&text_color=ffffff&border_color=5BC0BE" />
-
-</div>
+📧 **E-mail:** seuemail@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+🌐 **Portfólio (em breve):** [vitorsantabi.dev](https://vitorsantabi.dev)
 
 ---
 
-# 🔥 Contribution Streak
+*💡 "Design não é apenas como parece e como se sente. Design é como funciona." — Steve Jobs*
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vitorsantabi&theme=tokyonight&background=0B132B&ring=5BC0BE&fire=F28627&currStreakLabel=F9DE7E" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorsantabi&bg_color=0B132B&color=5BC0BE&line=F28627&point=F9DE7E&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vitorsantabi&theme=tokyonight&row=1&column=6" />
-
-</div>
-
----
-
-# 🎬 Projeto Destaque
-
-## 🎥 Vouver
-
-Aplicativo de avaliação de filmes desenvolvido com:
-
-- 📱 React Native
-- 🔥 Firebase
-- ☁️ Firestore
-- 🔐 Authentication
-- ⚡ TypeScript
-
-### Funcionalidades
-
-✔️ Login e autenticação  
-✔️ Avaliação de filmes  
-✔️ Sistema de notas  
-✔️ Banco em tempo real  
-✔️ Interface moderna  
-
-🔗 Repositório:
-
-```bash
-https://github.com/vitorsantabi/vouver
-```
-
----
-
-# 💻 Ambiente
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Framework-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-
-<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-</div>
-
----
-
-# 🌎 Redes
-
-<div align="center">
-
-<a href="https://github.com/vitorsantabi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vitorsantab">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 👀 Visitantes
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vitorsantabi&label=PROFILE+VIEWS&color=5BC0BE&style=for-the-badge" />
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-```txt
-📱 React Native + Expo
-🔥 Firebase
-⚡ TypeScript
-🛡️ Segurança Mobile
-🎨 UX/UI
-🚀 Performance Mobile
-```
-
----
-
-<div align="center">
-
-## 🚀 Transformando ideias em aplicações reais
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F28627,50:5BC0BE,100:0B132B"/>
-
-</div>
+![Snake animation](https://github.com/vitorsantabi/vitorsantabi/blob/output/github-contribution-snake.svg)
