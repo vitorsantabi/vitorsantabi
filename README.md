@@ -1,123 +1,180 @@
-Gemini
-Criação de README.md Interativo
-Nova conversa
-Meus itens
-Notebooks
+<div align="center">
 
-Bernhoeft Candidate Guide: Culture, Benefits, and Selection Process
+# 👨‍💻 Jose Vitor
 
-Building Android Apps with React Native and TypeScript
-Novo notebook
-Gems
-Conversas
-Criação de README.md Interativo
-Faça essa foto parecer que foi tirada em uma g7x com flash.
-Camisa Inter Milão Personalizada Grátis
-Faucets de Criptomoedas Sem Mínimo
-Tretinoína: Produtos e Cuidados Essenciais
-HFTC: O Que Significa?
-Clareadores Íntimos: Opções e Dicas
-Corpo Físico de IA
-Análise das Afirmações sobre os ODS
-Pronúncia de Slayyyter em Inglês
-Ajuda Para Encontrar Música
-Ajuda para Encontrar Museu
-Funk dos Anos 2000 no TikTok
-Funk Remix De "The Reason" Viral
-Horário Atual
-Saudação e Oferta de Ajuda
-Exames Solicitados em Receita Médica
-Semelhanças com Famosos
-Bots de Criptomoedas no Telegram
-Ajuda com Servidor de Mu Online
-Bootcamp SAP SuccessFactors: O Que Faz
-Energéticos e HIV: Consumo Consciente
-Panning shot of a blurry man silhouette, soft focus, film grain, against a red gradient background, motion blur -- stylize 700 --ar 4:3 --v 7
-Tela IPS Lenovo S145 HD
-Raio X Quadril Lateral Recife Particular
-Aposentadoria por Incapacidade e 13º
-Sugestões de Cortes de Cabelo Personalizados
-Medicamentos para Osteonecrose e Circulação
-O Significado de Barato
-Apps para Ganhar Crypto com Anúncios
-Aposentadoria por invalidez e CLT
-Osteonecrose: Alternativas à Prótese
-Trabalho ESG Natura com Foco em Recife
-Sugestões Para Melhorar Relatório ESG
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5BC0BE&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+Developer;Firebase+Developer;Criando+Apps+Modernos+e+Escaláveis" alt="Typing SVG" />
 
-Configurações e ajuda
-Conversa com o Gemini
-https://github.com/vitorsantabi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:5BC0BE,100:F28627&text=Welcome!&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
-
-
-crie um readme para esse repositorio interativo
-
-Seu arquivo README.md personalizado para o seu perfil do GitHub está pronto.
-
-Ele foi estruturado de forma visual e interativa, destacando suas principais tecnologias (React Native, TypeScript, PHP) e seus projetos (como o Vsocial, TagFlix e LoveText).
-Ícone do app MD
- README 
-MD
-
-💡 Como usar:
-Crie um repositório público no seu GitHub com o mesmo nome do seu usuário (vitorsantabi).
-
-Adicione este arquivo README.md como a página principal desse repositório. Ele se tornará automaticamente o banner do seu perfil.
-
-Lembre-se de ajustar o link do seu LinkedIn no final do arquivo!
-
-
-
-
-
-O Gemini é uma IA e pode cometer erros.
-
-# Olá, eu sou o José Vitor 👋
-
-### 🚀 Desenvolvedor Front-End & Mobile | Graduando em Sistemas para a Internet
-
-Seja bem-vindo ao meu perfil do GitHub! Sou estudante de **Sistemas para a Internet** na *Faculdade Católica Imaculada Conceição do Recife (FICR)*, com previsão de graduação para Julho de 2026. Sou apaixonado por transformar ideias em interfaces interativas, fluidas e eficientes, com foco principal no desenvolvimento mobile e ecossistema web.
+</div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+# 🚀 Sobre mim
 
-- **Front-End & Mobile:** React Native, TypeScript, JavaScript (ES6+), HTML5, CSS3
-- **Back-End & Bancos de Dados:** PHP, MySQL, SQL Server, Firebase
-- **Outros Conhecimentos:** Arquitetura MVC, Consumo de APIs REST, Metodologias Ágeis, Git/GitHub, ERP (SAP SuccessFactors)
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
+```yaml
+Nome: Jose Vitor
+Localização: Recife - PE
+Função: Full Stack Developer
+Mobile: React Native + Expo
+Backend: Firebase + PHP
+Linguagens: JavaScript | TypeScript
+Objetivo: Criar aplicações modernas e escaláveis
+```
 
-### 📌 Projetos em Destaque
-
-🛸 **[Vsocial](https://github.com/vitorsantabi/Vsocial)**
-Uma rede social completa desenvolvida utilizando **PHP** no back-end e **MySQL** para gerenciamento de dados. Focada em performance, segurança e uma experiência de usuário limpa utilizando conceitos clássicos de arquitetura web.
-
-🎬 **TagFlix**
-Aplicativo mobile de resenhas e comunidade para amantes de cinema. Desenvolvido com **React Native** e integrado ao **Firebase**, permitindo que usuários avaliem produções, criem listas e interajam em tempo real.
-
-📝 **[LoveText](https://github.com/vitorsantabi/LoveText)**
-Um repositório utilitário focado em processamento, manipulação e formatação inteligente de textos construído inteiramente em **TypeScript**.
+<br><br><br><br><br><br>
 
 ---
 
-### 📈 Estatísticas do GitHub
+# 🛠️ Tecnologias
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorsantabi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de vitorsantabi" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantabi&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,php,mysql,firebase,html,css,git,github,vscode,figma" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsantabi&show_icons=true&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&icon_color=F28627&text_color=ffffff&border_color=5BC0BE" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantabi&layout=compact&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&text_color=ffffff&border_color=5BC0BE" />
+
+</div>
 
 ---
 
-### 💬 Vamos conversar?
+# 🔥 Contribution Streak
 
-- **Localização:** Recife - PE, Brasil 📍
-- **LinkedIn:** [Conecte-se comigo](https://linkedin.com/in/vitorsantabi) *(Atualize com o seu link real)*
-- **Interesses:** Desenvolvimento Mobile, Prompt Engineering, Agentic AI, UI/UX e cultura pop/games 🎮
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vitorsantabi&theme=tokyonight&background=0B132B&ring=5BC0BE&fire=F28627&currStreakLabel=F9DE7E" />
+
+</div>
 
 ---
-*💡 "O design não é apenas o que parece e o que se sente. O design é como funciona."*
-README.md
-Exibindo README.md.
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorsantabi&bg_color=0B132B&color=5BC0BE&line=F28627&point=F9DE7E&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vitorsantabi&theme=tokyonight&row=1&column=6" />
+
+</div>
+
+---
+
+# 🎬 Projeto Destaque
+
+## 🎥 Vouver
+
+Aplicativo de avaliação de filmes desenvolvido com:
+
+- 📱 React Native
+- 🔥 Firebase
+- ☁️ Firestore
+- 🔐 Authentication
+- ⚡ TypeScript
+
+### Funcionalidades
+
+✔️ Login e autenticação  
+✔️ Avaliação de filmes  
+✔️ Sistema de notas  
+✔️ Banco em tempo real  
+✔️ Interface moderna  
+
+🔗 Repositório:
+
+```bash
+https://github.com/vitorsantabi/vouver
+```
+
+---
+
+# 💻 Ambiente
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Framework-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+</div>
+
+---
+
+# 🌎 Redes
+
+<div align="center">
+
+<a href="https://github.com/vitorsantabi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vitorsantab">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 👀 Visitantes
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vitorsantabi&label=PROFILE+VIEWS&color=5BC0BE&style=for-the-badge" />
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+```txt
+📱 React Native + Expo
+🔥 Firebase
+⚡ TypeScript
+🛡️ Segurança Mobile
+🎨 UX/UI
+🚀 Performance Mobile
+```
+
+---
+
+<div align="center">
+
+## 🚀 Transformando ideias em aplicações reais
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F28627,50:5BC0BE,100:0B132B"/>
+
+</div>
