@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorsantabi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorsantabi@gmail.com)
 
-🏠 **Trabalhando de casa** | Recife - PE, Brasil  
+
 🚀 **Graduando em Sistemas para a Internet** | FICR - Previsão: Julho/2026
 
 ---
